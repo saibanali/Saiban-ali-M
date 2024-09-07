@@ -48,7 +48,7 @@ After completing my education, I decided to transition into the data analytics f
 
 ## 📜 Certifications
 
-- **[SQL and Relational Database](https://courses.cognitiveclass.ai/certificates/b1ede65d4b78470484662332ba87cfbe)** – Issued by [Cognitiveclass.ai by IBM Developer Skills Network], [August, 2024]
+- **[power BI visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_PeuzWRsCNifdqtCgt_1725691125385_completion_certificate.pdf)** – Issued by [forge powered by pwc], [sep, 2024]
 - **[Introduction to SQL](https://simpli-web.app.link/e/cnvnlK8eCMb)** – Issued by [simplilearn], [August 2024]
 
 
