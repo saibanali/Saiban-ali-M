@@ -67,4 +67,4 @@ After completing my education, I decided to transition into the data analytics f
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whi)](https://www.linkedin.com/in/saiban-ali-103251261/)
 
  ## *publication*
- **virtual business cards** -  
+ ## **virtual business cards** : Indian journal of Natural science (aug/2023) (https://github.com/saibanali/publication-virtual-business-card)  
