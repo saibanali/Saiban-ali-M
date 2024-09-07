@@ -50,20 +50,18 @@ After completing my education, I decided to transition into the data analytics f
 
 - **[power BI visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_PeuzWRsCNifdqtCgt_1725691125385_completion_certificate.pdf)** – Issued by [forge powered by pwc], [sep, 2024]
 - **[Data visualization using python](https://olympus.mygreatlearning.com/courses/10900/certificate)** – Issued by [great learn], [Apr 2023]
+-  **[Data visualization using powerBI](https://olympus.mygreatlearning.com/courses/30824/certificate)** – Issued by [great learn], [Apr 2023]
+-  **[fullstack in python](https://drive.google.com/drive/quota)** – Issued by [guvi], [sep 2023]
 
 
 ## 🎓 *Education*
-   - Master of Social Work in Human Resource with CGPA of 7.5.
-   - Bachelor of Science in Computer Science with percentage of 70.69%.
-   - HSC in Biology-Maths group with percentage of 67%.
-   - SSLC with percentage of 94%.
+   - BE.computer science with CGPA of 7.5.
+   - Bachelor of enginner in Computer Science with percentage of 75%.
+   - SSLC with percentage of 78%.
       
 ## 🌍 *Languages*
   - **Tamil** - Speak, Write, Read
   - **English**  - Speak, Write, Read
-  - **Telugu** - Speak
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajee-gs)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/balajee_gs?igsh=aTZ6d3Fkam82eHBy&utm_source=qr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8248905626)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whi)](https://www.linkedin.com/in/saiban-ali-103251261/)
