@@ -37,7 +37,7 @@ After completing my education, I decided to transition into the data analytics f
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
 
-### [Amazon Prime Video Dashboard ]()
+### [Amazon Prime Video Dashboard ](https://github.com/saibanali/amazon-prime-dash-board)
 *Description*:  To create an interactive and insightful dashboard that provides a comprehensive overview of Amazon Prime Video's content performance, user engagement, and subscription metrics. The data has been sourced from Kaggle.
 
 - *Technologies*:
