@@ -49,7 +49,7 @@ After completing my education, I decided to transition into the data analytics f
 ## 📜 Certifications
 
 - **[power BI visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_PeuzWRsCNifdqtCgt_1725691125385_completion_certificate.pdf)** – Issued by [forge powered by pwc], [sep, 2024]
-- **[Introduction to SQL](https://simpli-web.app.link/e/cnvnlK8eCMb)** – Issued by [simplilearn], [August 2024]
+- **[Data visualization using python](https://olympus.mygreatlearning.com/courses/10900/certificate)** – Issued by [great learn], [Apr 2023]
 
 
 ## 🎓 *Education*
