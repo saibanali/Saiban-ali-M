@@ -19,7 +19,7 @@ After completing my education, I decided to transition into the data analytics f
     -
 - *Technologies*: SQL, Excel
 
-### [pwc Switzerland powerBI job simulation]()
+### [pwc Switzerland powerBI job simulation](https://github.com/saibanali/pwc-Switz-powerBI)
 *Description*: PwC Switzerland Power BI Job Simulation on Forage - September 2024
 - *Technologies*:
   - Power BI: For data visualization, dashboard creation, and report generation.
