@@ -19,15 +19,23 @@ After completing my education, I decided to transition into the data analytics f
     -
 - *Technologies*: SQL, Excel
 
-### [COVID-19 Report](https://github.com/balajee1108/COVID-19-Report)
-*Description*: To create an interactive and informative Power BI dashboard that provides real-time insights into COVID-19 statistics. The dashboard aims to visualize key metrics, track the spread of the virus, and support data-driven decision-making for public health authorities and the general public.
-
+### [pwc Switzerland powerBI job simulation]()
+*Description*: PwC Switzerland Power BI Job Simulation on Forage - September 2024
 - *Technologies*:
   - Power BI: For data visualization, dashboard creation, and report generation.
 - *Outcomes*:
-  - An interactive Power BI dashboard providing real-time COVID-19 data and visualizations.
-  - Clear insights into the spread of the virus, vaccination progress, and regional differences.
-  - Support for informed decision-making and public communication through accessible and actionable data..
+ * Completed a job simulation where I strengthened my PowerBI skills to better
+   understand clients and their data visualisation needs.
+ * Demonstrated expertise in data visualization through the creation of Power BI
+   dashboards that effectively conveyed KPIs, showcasing the ability to respond
+   to client requests with well-designed solutions.
+ * Strong communication skills reflected in the concise and informative email
+   communication with engagement partners, delivering valuable insights and
+   actionable suggestions based on data analysis.
+ * Leveraged analytical problem-solving skills to examine HR data, particularly
+   focusing on gender-related KPIs, and identified root causes for gender
+   balance issues at the executive management level, highlighting a commitment
+   to data-driven decision-making.
 
 ### [Amazon Prime Video Dashboard ](https://github.com/balajee1108/prime-video-dashboard)
 *Description*:  To create an interactive and insightful dashboard that provides a comprehensive overview of Amazon Prime Video's content performance, user engagement, and subscription metrics. The data has been sourced from Kaggle.
