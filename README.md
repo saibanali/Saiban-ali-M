@@ -1,6 +1,6 @@
-# Welcome to Balajee G Saravanan's Profile! 👋
+# Welcome to Saiban ali M's Profile! 👋
 
-Hi there!👋 I'm Balajee G S, a passionate and aspiring Data Analyst fresher with a skill in *SQL, Power BI, Tableau, Python, Excel*. With a background in MSW (Human Resource) and a BSc in Computer Science, I've found my calling in data analytics and am eager to contribute to the field.
+Hi there!👋 I'm Saiban ali M, a passionate and aspiring Data Analyst fresher with a skill in *SQL, Power BI, Tableau, Python, Excel*. With a background in BE Computer Science, I've found my calling in data analytics and am eager to contribute to the field.
 
 ### 🔧 My Toolkit
 - *Data Analysis*: SQL, Power BI, Tableau, Excel
