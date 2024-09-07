@@ -13,7 +13,7 @@ After completing my education, I decided to transition into the data analytics f
  
 ## 🛠 Projects
 
-### [ANALYZING PIZZA SALES TRENDS]()
+### [ANALYZING PIZZA SALES TRENDS](https://github.com/saibanali/Analyzing-pizza-sales)
 *Description*:
     - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. **SQL Code* and *Queries** used for analysis
     -
