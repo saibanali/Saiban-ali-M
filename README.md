@@ -19,11 +19,10 @@ After completing my education, I decided to transition into the data analytics f
     -
 - *Technologies*: SQL, Excel
 
-- ### [covid data Exploration]()
+- ### [covid data Exploration](https://github.com/saibanali/covid-data-exploration)
 *Description*:
-    - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. **SQL Code* and *Queries** used for analysis
-    -
-- *Technologies*: SQL, Excel
+    - In this project we downloade and load the data in to my sql server to explore the data closely further analyse the data set to find the requirement that are needed . data cleaning , processing and extract insights   -
+- *Technologies*: SQL
 
 ### [pwc Switzerland powerBI job simulation](https://github.com/saibanali/pwc-Switz-powerBI)
 *Description*: PwC Switzerland Power BI Job Simulation on Forage - September 2024
