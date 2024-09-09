@@ -19,7 +19,7 @@ After completing my education, I decided to transition into the data analytics f
     -
 - *Technologies*: SQL, Excel
 
-- ### [covid data Exploration](https://github.com/saibanali/covid-data-exploration)
+ ### [covid data Exploration](https://github.com/saibanali/covid-data-exploration)
 *Description*:
     - In this project we downloade and load the data in to my sql server to explore the data closely further analyse the data set to find the requirement that are needed . data cleaning , processing and extract insights   -
 - *Technologies*: SQL
