@@ -24,10 +24,6 @@ After completing my education, I decided to transition into the data analytics f
     - Then EDA (Exploratory Data Analysis) which include various querying to extract datas from processed dataset
 - *Technologies*: SQL
 
- ### [Covid Data Analysis](https://github.com/saibanali/covid-data-exploration)
-*Description*:
-    - In this project we downloade and load the data in to my sql server to explore the data closely further analyse the data set to find the requirement that are needed . data cleaning , processing and extract insights   -
-- *Technologies*: SQL
 
 ### [pwc Switzerland powerBI job simulation](https://github.com/saibanali/pwc-Switz-powerBI)
 *Description*: PwC Switzerland Power BI Job Simulation on Forage - September 2024
