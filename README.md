@@ -18,8 +18,13 @@ After completing my education, I decided to transition into the data analytics f
     - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. **SQL Code* and *Queries** used for analysis
     -
 - *Technologies*: SQL, Excel
+   ### [Corporate Layoff EDA project]()
+*Description*:
+    - In this project we downloade and load the carporate company layoff data from different source and load the data in to mysql serever for data processing includes Handling duplicates,Data standardisation and Handle null and blank values
+    - Then EDA (Exploratory Data Analysis) which include various querying to extract datas from processed dataset
+- *Technologies*: SQL
 
- ### [covid data Exploration](https://github.com/saibanali/covid-data-exploration)
+ ### [Covid Data Analysis](https://github.com/saibanali/covid-data-exploration)
 *Description*:
     - In this project we downloade and load the data in to my sql server to explore the data closely further analyse the data set to find the requirement that are needed . data cleaning , processing and extract insights   -
 - *Technologies*: SQL
