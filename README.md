@@ -20,7 +20,7 @@ After completing my education, I decided to transition into the data analytics f
 - *Technologies*: SQL, Excel
  ### [Corporate Layoff EDA project](https://github.com/saibanali/corporate-layoff-EDA)
 *Description*:
-    - In this project we downloade and load the carporate company layoff data from different source and load the data in to mysql serever for data processing includes Handling duplicates,Data standardisation and Handle null and blank values
+    - In this project we downloade the carporate company layoff data from different source and load the data in to mysql serever for data processing includes Handling duplicates,Data standardisation and Handle null and blank values
     - Then EDA (Exploratory Data Analysis) which include various querying to extract datas from processed dataset
 - *Technologies*: SQL
 
