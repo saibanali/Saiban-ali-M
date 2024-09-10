@@ -51,6 +51,15 @@ After completing my education, I decided to transition into the data analytics f
  - *Outcomes*:
    - The Amazon Prime Video Dashboard in Power BI will enable stakeholders to monitor and analyze content performance, user engagement, and subscription trends.
    - By leveraging this dashboard, the team can identify opportunities for content optimization, understand viewer preferences, and make informed decisions to enhance overall service quality and user satisfaction.
+   ### [KING COUNTRY,WASHINGTON HOUSE SALES DASHBOARD ]()
+*Description*:  To create an interactive and insightful dashboard that provides a comprehensive overview of King country washington housesales Total sales according to specific date , distribution of betrooms,bathrooms,price range , and maps. The data has been sourced from Kaggle.
+
+- *Technologies*:
+  - tableau: For data visualization, dashboard creation, and report generation.
+ - *Outcomes*:
+ - The dashboad that gives entire house sales information abou the king country,washington house sales includes price range of house according to area , distribution of bedrooms, distribution of bathrooms and their price range   .
+
+
 
 ## 📜 Certifications
 
