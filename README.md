@@ -18,12 +18,12 @@ After completing my education, I decided to transition into the data analytics f
     - To analyze pizza sales trends and provide actionable insights to improve business performance. This project aims to identify peak sales periods, popular pizza varieties, customer preferences, and regional sales distribution. **SQL Code* and *Queries** used for analysis
     -
 - *Technologies*: SQL, Excel
- ### [Corporate Layoff EDA project](https://github.com/saibanali/corporate-layoff-EDA)
+
+### [Corporate Layoff EDA project](https://github.com/saibanali/corporate-layoff-EDA)
 *Description*:
     - In this project we downloade the carporate company layoff data from different source and load the data in to mysql serever for data processing includes Handling duplicates,Data standardisation and Handle null and blank values
     - Then EDA (Exploratory Data Analysis) which include various querying to extract datas from processed dataset
 - *Technologies*: SQL
-
 
 ### [pwc Switzerland powerBI job simulation](https://github.com/saibanali/pwc-Switz-powerBI)
 *Description*: PwC Switzerland Power BI Job Simulation on Forage - September 2024
@@ -51,7 +51,8 @@ After completing my education, I decided to transition into the data analytics f
  - *Outcomes*:
    - The Amazon Prime Video Dashboard in Power BI will enable stakeholders to monitor and analyze content performance, user engagement, and subscription trends.
    - By leveraging this dashboard, the team can identify opportunities for content optimization, understand viewer preferences, and make informed decisions to enhance overall service quality and user satisfaction.
-   ### [KING COUNTRY,WASHINGTON HOUSE SALES DASHBOARD ]()
+
+### [KING COUNTRY,WASHINGTON HOUSE SALES DASHBOARD ](https://github.com/saibanali/TABLEAU-DASHBOARD-WASHINGTON-HOUSE-SALES-)
 *Description*:  To create an interactive and insightful dashboard that provides a comprehensive overview of King country washington housesales Total sales according to specific date , distribution of betrooms,bathrooms,price range , and maps. The data has been sourced from Kaggle.
 
 - *Technologies*:
